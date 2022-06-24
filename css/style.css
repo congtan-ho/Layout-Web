@@ -46,3 +46,16 @@ form {
     border-style:double;
     border-radius: 10px;
 }
+
+/* Cau 3*/
+.box-top-left {
+    float: left;
+}
+.box-top-right {
+    float: right;
+}
+.my-img {
+    position: relative;
+    top: -3em;
+    z-index: -999;
+}
