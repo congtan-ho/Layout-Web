@@ -1,0 +1,48 @@
+body {
+    background-image: url(../img/bg.jpg);
+}
+.text-primary {
+    color: #e6a756 !important;
+}
+h1 {
+    font-size: 4em;
+    font-weight: lighter;
+}
+.bg-dark {
+    background-color: rgba(47, 23, 15, 0.9) !important;
+}
+.nav-link.active {
+    color: #e6a756;
+}
+a.nav-link:hover {
+    color: #e6a756;
+}
+a.nav-link {
+    color: white;
+    font-weight: bold;
+}
+.bg-faded {
+    background-color: rgba(255, 255, 255, 0.8);
+}
+.box-left {
+    position: absolute;
+    top: 4em;
+    left: 0;
+    width: 45%;
+}
+.intro-img {
+    width: 80%;
+}
+
+/* Cau 2*/
+.bg-primary, .btn-primary {
+    background-color: #e6a756 !important;
+}
+.btn-primary {
+    border: none;
+}
+form {
+    border-color: #e6a756;
+    border-style:double;
+    border-radius: 10px;
+}
